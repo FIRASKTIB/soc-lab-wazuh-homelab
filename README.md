@@ -178,19 +178,19 @@ The 16 failed checks represent real security misconfigurations that would be rem
 ## 📸 Screenshots
 
 ### Wazuh Dashboard — Overview
-![dashboard](screenshots/wazuh-dashboard.png)
+![dashboard](screenshots/screenshots/wazuh-dashboard.png)
 
 ### Agent Active — Windows Server 2019
-![agent](screenshots/agent-active.png)
+![agent](screenshots/screenshots/agent-active.png)
 
 ### Threat Hunting — 365 Alerts
-![threat-hunting](screenshots/threat-hunting.png)
+![threat-hunting](screenshots/screenshots/threat-hunting.png)
 
 ### MITRE ATT&CK + CIS Benchmark
-![mitre](screenshots/mitre-attck.png)
+![mitre](screenshots/screenshots/mitre-attck.png)
 
 ### Nmap Scan from Kali
-![nmap](screenshots/nmap-scan.png)
+![nmap](screenshots/screenshots/nmap-scan.png)
 
 ---
 
